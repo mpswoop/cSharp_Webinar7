@@ -1,5 +1,5 @@
 ﻿// create table
-// replace first row by last row
+// find avarage from colums
 
 int[,] tabel = new int[4, 2];
 
